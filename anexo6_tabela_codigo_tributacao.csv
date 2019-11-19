@@ -1,0 +1,258 @@
+codigo|descricao|subitem_servico
+01.01.01-000|Análise e desenvolvimento de sistemas|0101
+01.02.01-000|Programação|0102
+01.03.01-000|Processamento de dados|0103 
+01.05.01-000|Licenciamento ou cessão de direito de uso de programas de computação|0105
+01.06.01-000|Assessoria e consultoria em informática|0106
+01.07.01-000|Suporte Técnico em Informática, inclusive instalação, configuração e manutenção de programas de computação e banco de dados|0107
+03.02.01-000|Cessão de direito de uso de marcas e de sinais de propaganda|0302
+07.19.01-000|Acompanhamento e fiscalização da execução de obras de engenharia, arquitetura e urbanismo (não vinculado a liberação de crédito próprio)|0719
+08.02.01-000|Instrução, treinamento, avaliação de conhecimentos de qualquer natureza|0802
+10.01.01-000|Agenciamento de câmbio|1001
+10.01.02-000|Corretagem de câmbio|1001
+10.01.03-000|Intermediação de câmbio|1001
+10.01.04-000|Agenciamento de seguros|1001
+10.01.05-000|Corretagem de seguros|1001
+10.01.06-000|Intermediação de seguros|1001
+10.01.07-000|Agenciamento de cartões de crédito|1001
+10.01.08-000|Corretagem de cartões de crédito|1001
+10.01.09-000|Intermediação de cartões de crédito|1001
+10.01.10-000|Agenciamento de planos de previdência privada|1001
+10.01.11-000|Corretagem de planos de previdência privada|1001
+10.01.12-000|Intermediação de planos de previdência privada|1001
+10.02.01-000|Agenciamento de títulos em geral|1002
+10.02.02-000|Corretagem de títulos em geral|1002
+10.02.03-000|Intermediação de títulos em geral|1002
+10.02.04-000|Agenciamento de valores mobiliários|1002
+10.02.05-000|Corretagem de valores mobiliários|1002
+10.02.06-000|Intermediação de valores mobiliários|1002
+10.02.07-000|Agenciamento de contratos quaisquer|1002
+10.02.08-000|Corretagem de contratos quaisquer|1002
+10.02.09-000|Intermediação de contratos quaisquer|1002
+10.04.01-000|Agenciamento de contratos de arrendamento mercantil (leasing)|1004
+10.04.02-000|Corretagem de contratos de arrendamento mercantil (leasing)|1004
+10.04.03-000|Intermediação de contratos de arrendamento mercantil (leasing)|1004
+10.04.04-000|Agenciamento de contratos de “faturização” (factoring)|1004
+10.04.05-000|Corretagem de contratos de “faturização” (factoring)|1004
+10.04.06-000|Intermediação de contratos de “faturização” (factoring)|1004
+10.05.01-000|Agenciamento de bens móveis não abrangidos em outros itens / subitens.|1005
+10.05.02-000|Corretagem de bens móveis não abrangidos em outros itens / subitens.|1005
+10.05.03-000|Intermediação de bens móveis não abrangidos em outros itens / subitens.|1005
+10.05.04-000|Agenciamento de bens imóveis não abrangidos em outros itens / subitens.|1005
+10.05.05-000|Corretagem de bens imóveis não abrangidos em outros itens / subitens.|1005
+10.05.06-000|Intermediação de bens imóveis não abrangidos em outros itens / subitens.|1005
+10.05.07-000|Agenciamento no âmbito de Bolsas de Mercadorias e Futuros.|1005
+10.05.08-000|Corretagem no âmbito de Bolsas de Mercadorias e Futuros.|1005
+10.05.09-000|Intermediação no âmbito de Bolsas de Mercadorias e Futuros.|1005 
+10.09.01-000|Representação de qualquer natureza, inclusive comercial|1009
+10.10.01-000|Distribuição de bens de terceiros|1010
+11.01.01-000|Guarda e estacionamento de veículos terrestres automotores|1101
+11.01.02-000|Guarda e estacionamento de aeronaves e de embarcações|1101
+13.03.01-000|Fotografia e cinematografia, inclusive revelação, ampliação, cópia, reprodução, trucagem|1303
+13.04.01-000|Serviços de reprografia|1304
+13.04.02-000|Serviços de microfilmagem |1304
+13.04.03-000|Serviços de digitalização|1304 
+15.01.01-000|Administração de fundos quaisquer|1501
+15.01.02-000|Administração de consórcio|1501
+15.01.03-000|Administração de cartão de crédito ou débito e congêneres|1501
+15.01.04-000|Administração de carteira de clientes|1501
+15.01.05-000|Administração de cheques pré-datados e congêneres|1501
+15.02.01-000|Abertura de conta-corrente no país|1502
+15.02.02-000|Abertura de contas de investimentos e aplicação no país|1502
+15.02.03-000|Abertura de conta de poupança no país|1502
+15.02.04-000|Abertura de contas em geral no país não abrangidas em outros itens/subitens.|1502
+15.02.05-000|Abertura de conta-corrente no exterior|1502
+15.02.06-000|Abertura de contas de investimentos e aplicação no exterior|1502
+15.02.07-000|Abertura de conta de poupança no exterior|1502
+15.02.08-000|Abertura de contas em geral no exterior não abrangidas em outros itens / subitens.|1502
+15.02.09-000|Manutenção de conta-corrente no país|1502
+15.02.10-000|Manutenção de contas de investimentos e aplicação no país|1502
+15.02.11-000|Manutenção de conta de poupança no país|1502
+15.02.12-000|Manutenção de contas em geral no país não abrangidas em outros itens / subitens.|1502
+15.02.13-000|Manutenção de conta-corrente no exterior|1502
+15.02.14-000|Manutenção de contas de investimentos e aplicação no exterior|1502
+15.02.15-000|Manutenção de conta de poupança no exterior|1502
+15.02.16-000|Manutenção de contas em geral no exterior não abrangidas em outros itens / subitens.|1502 
+15.03.01-000|Locação de cofres particulares|1503
+15.03.02-000|Manutenção de cofres particulares|1503
+15.03.03-000|Locação de terminais eletrônicos|1503
+15.03.04-000|Manutenção de terminais eletrônicos|1503
+15.03.05-000|Locação de terminais de atendimento |1503
+15.03.06-000|Manutenção de terminais de atendimento|1503
+15.03.07-000|Locação de bens e equipamentos em geral|1503
+15.03.08-000|Manutenção de bens e equipamentos em geral|1503 
+15.04.01-000|Fornecimento e emissão de atestado de idoneidade|1504
+15.04.02-000|Fornecimento e emissão de atestado de capacidade financeira e congêneres|1504
+15.04.03-000|Fornecimento e emissão de atestados em geral não abrangidas em outros itens/subitens.|1504 
+15.05.01-000|Cadastro, elaboração e Renovação de ficha cadastral e congêneres|1505
+15.05.02-000|Inclusão no cadastro de emitentes de cheques sem fundos-CCF|1505
+15.05.03-000|Exclusão do cadastro de emitentes de cheques sem fundos-CCF|1505
+15.05.04-000|Inclusão no cadastro de outros bancos cadastrais quaisquer|1505
+15.05.05-000|Exclusão do cadastro de outros bancos cadastrais quaisquer|1505 
+15.06.01-000|Emissão, reemissão e fornecimento de avisos.|1506
+15.06.02-000|Emissão, reemissão e fornecimento de comprovantes|1506
+15.06.03-000|Emissão, reemissão e fornecimento de documentos em geral |1506
+15.06.04-000|Abono de firmas|1506
+15.06.05-000|Coleta de documentos, bens e valores|1506
+15.06.06-000|Entrega de documentos, bens e valores|1506
+15.06.07-000|Comunicação com outra agência |1506
+15.06.08-000|Comunicação com a administração central|1506
+15.06.09-000|Licenciamento eletrônico de veículos|1506
+15.06.10-000|Transferência de veículos|1506
+15.06.11-000|Agenciamento fiduciário|1506
+15.06.12-000|Agenciamento depositário|1506
+15.06.13-000|Devolução de bens em custódia|1506
+15.06.14-000|Baixa eletrônica de gravame para veículos|1506 
+15.07.01-000|Acesso, movimentação, atendimento e consulta a contas em geral por telefone|1507
+15.07.02-000|Acesso, movimentação, atendimento e consulta a contas em geral por fac-símile|1507
+15.07.03-000|Acesso, movimentação, atendimento e consulta a contas em geral via internet|1507
+15.07.04-000|Acesso, movimentação, atendimento e consulta a contas por telex|1507
+15.07.05-000|Acesso, movimentação, atendimento e consulta a contas em geral, por qualquer meio ou processo não abrangidas em outros itens / subitens.|1507
+15.07.06-000|Acesso a terminais de atendimento, inclusive 24 horas|1507
+15.07.07-000|Acesso a outro banco|1507
+15.07.08-000|Acesso à rede compartilhada|1507
+15.07.09-000|Fornecimento de saldo, extrato e demais informações relativas a contas em geral, por qualquer meio ou processo.|1507
+15.07.10-000|Pacote / cesta de serviços bancários |1507 
+15.08.01-000|Emissão e reemissão de contrato de crédito|1508
+15.08.02-000|Alteração de contrato de crédito|1508
+15.08.03-000|Cessão de contrato de crédito|1508
+15.08.04-000|Substituição de contrato de crédito|1508
+15.08.05-000|Cancelamento de contrato de crédito|1508
+15.08.06-000|Registro de contrato de crédito|1508
+15.08.07-000|Estudo, análise e avaliação de operações de crédito|1508
+15.08.08-000|Emissão de aval, fiança, anuência e congêneres|1508
+15.08.09-000|Concessão de aval, fiança, anuência e congêneres|1508
+15.08.10-000|Alteração de aval, fiança, anuência e congêneres|1508
+15.08.11-000|Contratação de aval, fiança, anuência e congêneres|1508
+15.08.12-000|Serviços relativos a abertura de crédito não abrangidas em outros itens/subitens, para quaisquer fins.|1508 
+15.09.01-000|Arrendamento mercantil (leasing) de quaisquer bens, inclusive cessão de direitos e obrigações|1509
+15.09.02-000|Substituição de garantia|1509
+15.09.03-000|Alteração de contrato de leasing|1509
+15.09.04-000|Cancelamento de contrato de leasing|1509
+15.09.05-000|Registro de contrato de leasing|1509
+15.09.06-000|Demais serviços relacionados ao arrendamento mercantil (leasing)|1509 
+15.10.01-000|Serviços relacionados a cobranças e recebimentos em geral de títulos quaisquer efetuados por qualquer meio|1510
+15.10.02-000|Serviços relacionados a cobranças e recebimentos de contas em geral efetuados por qualquer meio |1510
+15.10.03-000|Serviços relacionados a cobranças e recebimentos de carnês em geral efetuados por qualquer meio |1510
+15.10.04-000|Serviços relacionados a cobranças e recebimentos de câmbio em geral efetuados por qualquer meio |1510
+15.10.05-000|Serviços relacionados a recebimentos de tributos em geral efetuados por qualquer meio |1510
+15.10.06-000|Serviços relacionados a cobranças e recebimentos por conta de terceiros em geral efetuados por qualquer meio |1510
+15.10.07-000|Serviços relacionados a pagamentos em geral de títulos quaisquer efetuados por qualquer meio |1510
+15.10.08-000|Serviços relacionados a pagamentos de contas em geral efetuados por qualquer meio |1510
+15.10.09-000|Serviços relacionados a pagamentos de carnês em geral efetuados por qualquer meio |1510
+15.10.10-000|Serviços relacionados a pagamentos de câmbio em geral efetuados por qualquer meio |1510
+15.10.11-000|Serviços relacionados a pagamentos de tributos em geral efetuados por qualquer meio |1510
+15.10.12-000|Serviços relacionados a pagamentos por conta de terceiros em geral efetuados por qualquer meio |1510
+15.10.13-000|Fornecimento de posição de cobrança |1510
+15.10.14-000|Fornecimento de posição de recebimento|1510
+15.10.15-000|Fornecimento de posição de pagamento|1510
+15.10.16-000|Emissão de carnês|1510
+15.10.17-000|Emissão de fichas de compensação|1510
+15.10.18-000|Emissão de impressos e documentos em geral|1510 
+15.11.01-000|Devolução de títulos|1511
+15.11.02-000|Protesto de títulos|1511
+15.11.03-000|Sustação de protesto|1511
+15.11.04-000|Manutenção de títulos|1511
+15.11.05-000|Reapresentação de títulos |1511
+15.11.06-000|Demais serviços relacionados a títulos em cobrança|1511 
+15.12.01-000|Custódia em geral, inclusive de títulos e valores mobiliários|1512 
+15.13.01-000|Edição de contrato de câmbio|1513
+15.13.02-000|Alteração de contrato de câmbio|1513
+15.13.03-000|Prorrogação de contrato de câmbio|1513
+15.13.04-000|Cancelamento de contrato de câmbio|1513
+15.13.05-000|Baixa de contrato de câmbio|1513
+15.13.06-000|Emissão de registro de exportação |1513
+15.13.07-000|Emissão de registro de crédito|1513
+15.13.08-000|Cobrança no exterior|1513
+15.13.09-000|Depósito no exterior|1513
+15.13.10-000|Emissão e fornecimento de cheques de viagem|1513
+15.13.11-000|Cancelamento de cheques de viagem|1513
+15.13.12-000|Fornecimento de carta de crédito de importação |1513
+15.13.13-000|Transferência de carta de crédito de importação|1513
+15.13.14-000|Cancelamento de carta de crédito de importação|1513
+15.13.15-000|Demais serviços relativos à carta de crédito de importação|1513
+15.13.16-000|Fornecimento de carta de crédito de exportação |1513
+15.13.17-000|Transferência de carta de crédito de exportação|1513
+15.13.18-000|Cancelamento de carta de crédito de exportação|1513
+15.13.19-000|Demais serviços relativos à carta de crédito de exportação|1513
+15.13.20-000|Serviços relativos a garantias recebidas|1513
+15.13.21-000|Envio de mensagens em geral relacionadas a operações de câmbio|1513
+15.13.22-000|Recebimento de mensagens em geral relacionadas a operações de câmbio|1513
+15.13.23-000|Demais serviços relacionados à operação de câmbio|1513 
+15.14.01-000|Fornecimento, emissão e reemissão de cartão magnético|1514
+15.14.02-000|Renovação de cartão magnético|1514
+15.14.03-000|Manutenção de cartão magnético|1514
+15.14.04-000|Fornecimento, emissão e reemissão de cartão de crédito|1514
+15.14.05-000|Renovação de cartão de crédito|1514
+15.14.06-000|Manutenção de cartão de crédito|1514
+15.14.07-000|Fornecimento, emissão e reemissão de cartão de débito|1514
+15.14.08-000|Renovação de cartão de débito|1514
+15.14.09-000|Manutenção de cartão de débito|1514
+15.14.10-000|Fornecimento, emissão e reemissão de cartão salário |1514
+15.14.11-000|Renovação de cartão salário |1514
+15.14.12-000|Manutenção de cartão salário |1514
+15.14.13-000|Fornecimento, emissão e reemissão de cartões congêneres |1514
+15.14.14-000|Renovação de cartões congêneres |1514
+15.14.15-000|Manutenção de cartões congêneres |1514 
+15.15.01-000|Compensação de cheques |1515
+15.15.02-000|Compensação de títulos quaisquer|1515
+15.15.03-000|Serviços relacionados a depósito, inclusive depósito identificado|1515
+15.15.04-000|Serviços relacionados a saque de contas quaisquer, por qualquer meio ou processo.|1515 
+15.16.01-000|Emissão / reemissão de ordens de pagamento, ordens de crédito e similares, por qualquer meio ou processo|1516
+15.16.02-000|Liquidação de ordens de pagamento, ordens de crédito e similares, por qualquer meio ou processo|1516
+15.16.03-000|Alteração de ordens de pagamento, ordens de crédito e similares, por qualquer meio ou processo|1516
+15.16.04-000|Cancelamento de ordens de pagamento, ordens de crédito e similares, por qualquer meio ou processo|1516
+15.16.05-000|Baixa de ordens de pagamento, ordens de crédito e similares, por qualquer meio ou processo|1516
+15.16.06-000|Serviços relacionados à transferência de valores, dados, fundos, pagamentos e similares, inclusive entre contas em geral|1516 
+15.17.01-000|Emissão de cheques quaisquer, avulso ou por talão|1517
+15.17.02-000|Fornecimento de cheques quaisquer, avulso ou por talão|1517
+15.17.03-000|Devolução de cheques quaisquer, avulso ou por talão|1517
+15.17.04-000|Sustação de cheques quaisquer, avulso ou por talão|1517
+15.17.05-000|Cancelamento de cheques quaisquer, avulso ou por talão|1517
+15.17.06-000|Oposição de cheques quaisquer, avulso ou por talão|1517 
+15.18.01-000|Avaliação de imóvel|1518
+15.18.02-000|Avaliação de obra|1518
+15.18.03-000|Vistoria de imóvel|1518
+15.18.04-000|Vistoria de obra|1518
+15.18.05-000|Análise técnica relacionada ao crédito imobiliário|1518
+15.18.06-000|Análise jurídica relacionada ao crédito imobiliário|1518
+15.18.07-000|Emissão / reemissão de contrato de crédito imobiliário|1518
+15.18.08-000|Alteração de contrato de crédito imobiliário|1518
+15.18.09-000|Transferência de contrato de crédito imobiliário|1518
+15.18.10-000|Renegociação de contrato de crédito imobiliário|1518
+15.18.11-000|Emissão / reemissão de termo de quitação|1518
+15.18.12-000|Outros serviços relacionados ao crédito imobiliário|1518
+17.01.01-000|Assessoria de qualquer natureza|1701
+17.01.02-000|Consultoria de qualquer natureza|1701
+17.01.03-000|Análise, exame, fornecimento de dados e informações de qualquer natureza|1701 
+17.02.01-000|Serviços de expediente|1702
+17.02.02-000|Serviços de apoio e infra-estrutura administrativa e congêneres|1702 
+17.03.01-000|Serviços de planejamento, coordenação, programação ou organização técnica|1703
+17.03.02-000|Serviços de planejamento, coordenação, programação ou organização financeira|1703
+17.03.03-000|Serviços de planejamento, coordenação, programação ou organização administrativa|1703 
+17.05.01-000|Fornecimento de mão-de-obra, em caráter temporário ou permanente|1705
+17.06.01-000|Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade, elaboração de desenhos, textos e demais materiais publicitários.|1706 
+17.09.01-000|Serviços de perícias|1709
+17.09.02-000|Serviços de laudos|1709
+17.09.03-000|Serviços de exames técnicos|1709
+17.09.04-000|Serviços de análises técnicas|1709 
+17.12.01-000|Administração em geral de bens e negócios de terceiros|1712 
+17.13.01-000|Leilão e congêneres|1713| 
+17.16.01-000|Auditoria|1716
+17.19.01-000|Contabilidade, inclusive serviços técnicos e auxiliares|1719
+17.20.01-000|Consultoria econômica|1720
+17.20.02-000|Assessoria econômica|1720
+17.20.03-000|Consultoria financeira|1720
+17.20.04-000|Assessoria financeira|1720
+18.01.01-000|Serviços de regulação de sinistros vinculados a contratos de seguros|1801
+18.01.02-000|Serviços de inspeção e avaliação de riscos para cobertura de contratos de seguros|1801
+18.01.03-000|Serviços de prevenção e gerência de riscos seguráveis e congêneres.|1801
+19.01.01-000|Serviços de distribuição de bilhetes e demais produtos de loteria, cartões, pules ou cupons de apostas, sorteios, prêmios, inclusive os decorrentes de títulos de capitalização e congêneres|1901
+19.01.02-000|Serviços de vendas de bilhetes e demais produtos de loteria, cartões, pules ou cupons de apostas, sorteios, prêmios, inclusive os decorrentes de títulos de capitalização e congêneres|1901
+19.01.03-000|Serviços de distribuição de bilhetes e demais produtos de bingos.|1901
+19.01.04-000|Serviços de vendas de bilhetes e demais produtos de bingos.|1901 
+26.01.01-000|Serviços de coleta de bens ou valores|2601
+26.01.02-000|Serviços de remessa de bens ou valores|2601
+26.01.03-000|Serviços de entrega de bens ou valores|2601
+26.01.04-000|Serviços de courrier e congêneres|2601 
+28.01.01-000|Serviços de avaliação de bens e serviços de qualquer natureza|2801
