@@ -5,3 +5,5 @@ Arquivos de anexos do DES-IF convertidos para .csv
 - Anexo 3: Tabela do COSIF
 - Anexo 6: Tabela de Códigos de Tributação da DES-IF
 - Anexo 7: Tabela de Códigos de Tributação do Município
+- Anexo 9: Tabela de Tarifas Bancárias
+- Anexo 10: Tabela de Outros Produtos e Serviços
