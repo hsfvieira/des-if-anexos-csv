@@ -1,0 +1,131 @@
+codigo|grupo_tarifa|descricao_tarifa|periodicidade
+0101|Cadastro|Confecção de ficha cadastral|Por Evento
+0102|Cadastro|Renovação de ficha cadastral|A cada 180 dias
+0103|Cadastro|Consultas a serviços de proteção ao crédito|Por Evento
+0201|Cartão Magnético|Comum, para débito, saque e consultas|A cada 1 dias
+0202|Cartão Magnético|Débito, saque e garantia de cheque-anuidade do contrato|A cada 1 dias
+0203|Cartão Magnético|Débito, saque e garantia de cheque-confecção do cartão|Por Evento
+0204|Cartão Magnético|Cartão multiplo-nacional-anuidade do contrato|A cada 30 dias
+0205|Cartão Magnético|Cartão multiplo-nacional-confecção do cartão|Por Evento
+0206|Cartão Magnético|Cartão multiplo-internacional-anuidade do contrato|A cada 1 dias
+0207|Cartão Magnético|Cartão multiplo-internacional-confecção do cartão|Por Evento
+0208|Cartão Magnético|Cartão multiplo adicional-nacional-anuidade do contrato|A cada 1 dias
+0209|Cartão Magnético|Cartão multiplo adicional-nacional-confecção do cartão|Por Evento
+0210|Cartão Magnético|Cartão multiplo adicional-intern.-anuidade do contrato|A cada 1 dias
+0211|Cartão Magnético|Cartão multiplo adicional-Intern.-confecção do cartão|Por Evento
+0301|Cheque|Talão-10 folhas|Por Evento
+0302|Cheque|Talão-20 folhas (segundo talão no mês)|Por Evento
+0303|Cheque|Cheque administrativo|Por Evento
+0304|Cheque|Cheque avulso|Por Evento
+0305|Cheque|Cheque devolvido por insuficiência de fundos|Por Evento
+0306|Cheque|Oposição/sustação de pagamento de cheque|Por Evento
+0308|Cheque|Inclusão no Cadastro de Cheques sem Fundo|Por Evento
+0309|Cheque|Exclusão do Cadastro de Cheques sem Fundo|Por Evento
+0310|Cheque|Cobrança de cheque por compensação|Por Evento
+0311|Cheque|Cheque TB (Transferência Bancária sem CPMF)|Por Evento
+0401|Conta Corrente|Abertura de conta|Por Evento
+0402|Conta Corrente|Manutenção de conta ativa|A cada 30 dias
+0403|Conta Corrente|Manutenção de conta inativa|A cada 1 dias
+0404|Conta Corrente|Adiant. a deposit., incl. excesso limite de ch. especial|Por Evento
+0405|Conta Corrente|Concessão de cheque especial/conta garantida|Por Evento
+0406|Conta Corrente|Renovação de cheque especial/conta garantida|A cada 30 dias
+0407|Conta Corrente|Débito autorizado em conta-corrente|Por Evento
+0408|Conta Corrente|Banco domestico-conta principal (com limite de acessos)|A cada 1 dias
+0409|Conta Corrente|Banco doméstico-conta secundária (com limite de acessos)|A cada 1 dias
+0501|Movimentação de Recursos|Saque em caixa automática externa/banco 24 horas|Por Evento
+0502|Movimentação de Recursos|Emissão de DOC C|Por Evento
+0503|Movimentação de Recursos|Emissão de DOC D|Por Evento
+0504|Movimentação de Recursos|Ordem de Pagamento|Por Evento
+0505|Movimentação de Recursos|Depósito em outra agência|Por Evento
+0506|Movimentação de Recursos|Transferência Eletrônica Disponível - TED|Por Evento
+0601|Extrato de Conta|Em terminal eletrônico|Por Evento
+0602|Extrato de Conta|Por outros meios|Por Evento
+0603|Extrato de Conta|Cópias de microfilmes, microfichas ou assemelhados|Por Evento
+0701|Cobrança|Entrada por borderô (listagem de titulos)|Por Evento
+0702|Cobrança|Entrada por meio magnético|Por Evento
+0703|Cobrança|Entrada sem registro - por boleto emitido pelo cliente|Por Evento
+0704|Cobrança|Manutenção de título vencido|A cada 30 dias
+0705|Cobrança|Envio para protesto|Por Evento
+0706|Cobrança|Sustação de protesto|Por Evento
+0707|Cobrança|Devolução de título|Por Evento
+0801|Créditos|Abertura de crédito|Por Evento
+0802|Créditos|Renegociação de dívida|Por Evento
+0803|Créditos|Substituição de garantia|Por Evento
+0804|Créditos|Custódia de cheque pré-datado|Por Evento
+0805|Créditos|Rescisão Contratual (Quitação Antecipada)|Por Evento
+0901|Outros Serviços|Segunda via de documento|Por Evento
+0902|Outros Serviços|Ressarcimento de despesas-telefonema|Por Evento
+0903|Outros Serviços|Ressarcimento de despesas-fax|Por Evento
+0904|Outros Serviços|Envelopamento de documentos|Por Evento
+0905|Outros Serviços|Pagamento de funcionários via relação|Por Evento
+0906|Outros Serviços|Pagamento de funcionários via meio magnético|Por Evento
+1001|Capitais Estrangeiros e Câmbio|Exportação: Edição de Contrato de Câmbio|Por Evento
+1002|Capitais Estrangeiros e Câmbio|Exportação: Edição de Contrato de Câmbio via Internet|Por Evento
+1003|Capitais Estrangeiros e Câmbio|Exportação: Liquidação com Ordem de Pagamento|Por Evento
+1004|Capitais Estrangeiros e Câmbio|Exportação: Conferência de Documentos|Por Evento
+1005|Capitais Estrangeiros e Câmbio|Exportação: Câmbio Simplicado (todas as despesas do cliente no Banco)|Por Evento
+1006|Capitais Estrangeiros e Câmbio|Importação: Edição de Contrato de Câmbio|Por Evento
+1007|Capitais Estrangeiros e Câmbio|Importação: Emissão de Ordem de Pagamento|Por Evento
+1008|Capitais Estrangeiros e Câmbio|Importação: Demais Tarifas (Não incluem despesas no Exteior)|Por Evento
+1009|Capitais Estrangeiros e Câmbio|Importação: Câmbio Simplificado(Todas as despesas do cliente no Banco)|Por Evento
+1010|Capitais Estrangeiros e Câmbio|Financeiro -Ingresso de Recursos: Edição de Contrato de Câmbio|Por Evento
+1011|Capitais Estrangeiros e Câmbio|Financeiro-Ingresso de Recursos:Edição de Cont. de Câmbio Via Internet|Por Evento
+1012|Capitais Estrangeiros e Câmbio|Financeiro -Ingresso de Recursos: Liquidação com Ordem de pagamento|Por Evento
+1013|Capitais Estrangeiros e Câmbio|Financeiro - Ingresso de Recursos: Confecção de ROF|Por Evento
+1014|Capitais Estrangeiros e Câmbio|Financeiro - Ingresso de Recursos : Confecção de esquema de ROF|Por Evento
+1015|Capitais Estrangeiros e Câmbio|Financeiro - Ingresso de Recursos: Confecção de Cadastro no Cademp|Por Evento
+1016|Capitais Estrangeiros e Câmbio|Financeiro -Remessa de Recursos: Edição de Contrato de Câmbio|Por Evento
+1017|Capitais Estrangeiros e Câmbio|Financeiro-Remessa de Recursos: Edição de Cont. de Câmbio Via Internet|Por Evento
+1018|Capitais Estrangeiros e Câmbio|Financeiro - Remessa de Recursos: Emissão de Ordem de Pagamento|Por Evento
+1019|Capitais Estrangeiros e Câmbio|Financeiro - Remessa de Recursos: Alteração de ROF|Por Evento
+1101|Cadastro|Confecção de cadastro para início de relacionamento - CADASTRO|Por Evento
+1201|Conta de Depósitos|CARTÃO - Fornecimento de 2º via de cartão com função débito|Por Evento
+1202|Conta de Depósitos|CARTÃO - Fornec. de 2ª via de cartão com função mov. conta de poupança|Por Evento
+1203|Conta de Depósitos|CHEQUE - Exclusão do Cadastro de Emitentes de Cheques sem Fundo (CCF)|Por Evento
+1204|Conta de Depósitos|CHEQUE - Contra-ordem e oposição ao pagamento de cheque|Por Evento
+1205|Conta de Depósitos|CHEQUE - Fornecimento de folhas de cheque|Por Evento
+1206|Conta de Depósitos|CHEQUE - Cheque Administrativo|Por Evento
+1207|Conta de Depósitos|CHEQUE - Cheque de transferência bancária_(TB e TBG)|Por Evento
+1208|Conta de Depósitos|CHEQUE - Cheque Visado|Por Evento
+1209|Conta de Depósitos|Saque de conta de depósitos à vista e de poupança - SAQUE pessoal|Por Evento
+1210|Conta de Depósitos|Saque de conta de depósitos à vista e de poupança - SAQUE Terminal|Por Evento
+1211|Conta de Depósitos|Saque de conta de dep. à vista e de poupança - SAQUE correspondente|Por Evento
+1212|Conta de Depósitos|DEPÓSITO - Depósito Identificado|Por Evento
+1213|Conta de Depósitos|Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (P)|Por Evento
+1214|Conta de Depósitos|Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (E)|Por Evento
+1215|Conta de Depósitos|Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (C)|Por Evento
+1216|Conta de Depósitos|Ext. mensal de conta de dep. à vista e poup. p/um período - EXTRATO(P)|Por Evento
+1217|Conta de Depósitos|Ext. mensal de conta de dep. à vista e Poup. p/um período - EXTRATO(E)|Por Evento
+1218|Conta de Depósitos|Ext. mensal de conta de dep. à vista e poup. p/um período - EXTRATO(C)|Por Evento
+1219|Conta de Depósitos|Fornecimento de cópia de microfilme, microficha ou assemelhado|Por Evento
+1301|Transferência de Recursos|Transferência por meio de DOC/TED - DOC/TED pessoal|Por Evento
+1302|Transferência de Recursos|Transferência por meio de DOC/TED - DOC/TED eletrônico|Por Evento
+1303|Transferência de Recursos|Transferência de recursos por meio de DOC/TED - DOC/TED internet|Por Evento
+1304|Transferência de Recursos|Transferência agendada por meio de DOC/TED - DOC/TED agendado(P)|Por Evento
+1305|Transferência de Recursos|Transferência agendada por meio de DOC/TED - DOC/TED agendado(E)|Por Evento
+1306|Transferência de Recursos|Transferência agendada por meio de DOC/TED - DOC/TED agendado(I)|Por Evento
+1307|Transferência de Recursos|Transferência entre contas na própria instituição- TRANSF.RECURSOS(P)|Por Evento
+1308|Transferência de Recursos|Transferência entre contas na própria instituição- TRANSF.RECURSOS(E/I)|Por Evento
+1309|Transferência de Recursos|Ordem de Pagamento - ORDEM PAGAMENTO|Por Evento
+1310|Transferência de Recursos|Transferência por meio de DOC - DOC Pessoal|Por Evento
+1311|Transferência de Recursos|Transferência por meio de DOC - DOC eletrônico|Por Evento
+1312|Transferência de Recursos|Transferência por meio de DOC - DOC internet|Por Evento
+1313|Transferência de Recursos|Transferência por meio de TED - TED pessoal|Por Evento
+1314|Transferência de Recursos|Transferência por meio de TED - TED eletrônico|Por Evento
+1315|Transferência de Recursos|Transferência por meio de TED - TED internet|Por Evento
+1401|Operações de Crédito e de Arrendamento Mercantil|Concessão de adiantamento a depositante - ADIANT. DEPOSITANTE|Por Evento
+1501|Pacote Padronizado Pessoa Natural|PACOTE PADRONIZADO PESSOA FÍSICA|Por Evento
+1601|Cartão de Crédito|Anuidade - cartão básico nacional|A cada 30 dias
+1602|Cartão de Crédito|Fornecimento de 2ª via de cartão com função crédito|Por Evento
+1603|Cartão de Crédito|Utilização de canais de atend. para retirada em espécie - no país|Por Evento
+1604|Cartão de Crédito|Pagamento de contas utilizando a função crédito em espécie|Por Evento
+1605|Cartão de Crédito|Avaliação emergencial de crédito|Por Evento
+1606|Cartão de Crédito|Anuidade - cartão básico internacional|A cada 1 dias
+1607|Cartão de Crédito|Utilização de canais de atend. para retirada em espécie - no exterior|Por Evento
+1701|Operação de Câmbio Manual|Venda de moeda estrangeira - espécie|Por Evento
+1702|Operação de Câmbio Manual|Venda de moeda estrangeira - cheque de viagem|Por Evento
+1703|Operação de Câmbio Manual|Venda de moeda estrangeira - cartão pré-pago - emissão e carga|Por Evento
+1704|Operação de Câmbio Manual|Venda de moeda estrangeira - cartão pré-pago - recarga|Por Evento
+1705|Operação de Câmbio Manual|Compra de moeda estrangeira - espécie|Por Evento
+1706|Operação de Câmbio Manual|Compra de moeda estrangeira - cheque de viagem|Por Evento
+1707|Operação de Câmbio Manual|Compra de moeda estrangeira - cartão pré-pago|Por Evento

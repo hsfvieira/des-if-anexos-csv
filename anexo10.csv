@@ -1,0 +1,50 @@
+codigo|servico|descricao_servico|obrigatorio_descricao_complementar
+5101|Agenciamento / intermediação em operações de crédito|Prestação de serviços de agenciamento / intermediação nas operações de repasse de linhas de crédito com recursos internos ou externos|N
+5102|Agenciamento / intermediação em operações de câmbio|Prestação de serviços de agenciamento / intermediação nas operações de câmbio|N
+5103|Agenciamento / intermediação na venda de seguros|Prestação de serviços de agenciamento / intermediação na venda de seguros para terceiros (empresas ligadas ou não)|N
+5104|Agenciamento / intermediação na venda de serviços de turismo|Prestação de serviços de agenciamento / intermediação na venda de turismo para terceiros (empresas ligadas ou não)|N
+5105|Agenciamento / intermediação na venda de cartões de crédito|Prestação de serviços de agenciamento / intermediação na venda de cartões de crédito para terceiros (empresas ligadas ou não)|N
+5106|Agenciamento / intermediação na venda de títulos de capitalização|Prestação de serviços de agenciamento na venda de títulos de capitalização para terceiros (empresas ligadas ou não)|N
+5107|Agenciamento / intermediação na venda de planos de saúde|Prestação de serviços de agenciamento / intermediação na venda de planos de saúde para terceiros (empresas ligadas ou não)|N
+5108|Agenciamento / intermediação na venda de arrendamento mercantil -&quot;leasing&quot;|Prestação de serviços de agenciamento / intermediação na venda de arrendamento mercantil - “leasing” para terceiros (empresas ligadas ou não)|N
+5109|Agenciamento / intermediação na venda de planos de previdência privada|Prestação de serviços de agenciamento / intermediação na venda de planos de previdência privada para terceiros (empresas ligadas ou não)|N
+5110|Agenciamento / intermediação de programas|Prestação de serviços de agenciamento / intermediação de programas diversos promovidos por terceiros (empresas ligadas ou não), tais como programas de milhagem de cartões|S
+5111|Agenciamento / intermediação em geral|Prestação de serviços de agenciamento / intermediação para terceiros não especificados nos itens anteriores|S
+5201|Intermediação de contratos na BMF|Prestação de serviços de intermediação de contratos na Bolsa de Mercadorias e Futuros|N
+5202|Intermediação de títulos|Prestação de serviços de intermediação de títulos|N
+5203|Intermediação na venda de cotas de fundos e clubes de investimento|Prestação de serviços de intermediação na venda de cotas de fundos e clubes de investimento|N
+5204|Intermediação na compra e venda de ações|Prestação de serviços de intermediação na compra e venda de ações|N
+5205|Intermediação de bens imóveis|Prestação de serviços de intermediação na venda de bens imóveis|N
+5206|Intermediação de bens|Prestação de serviços de Intermediação de bens não especificados nos itens anteriores|S
+5301|Colocação de títulos e valores mobiliários|Prestação de serviços de colocação de títulos e valores mobiliários no mercado para companhias abertas|N
+5302|Colocação de cotas de fundos e clubes de investimento|Prestação de serviços de colocação no mercado de cotas de fundos e clubes de investimento|N
+5303|Distribuição de títulos e valores mobiliários|Prestação de serviços de distribuição de títulos e valores mobiliários no mercado para companhias abertas|N
+5401|Corretagem de câmbio|Prestação de serviços de corretagem de câmbio|N
+5402|Corretagem de operações em Bolsas|Prestação de serviços de corretagem de operações em Bolsas|N
+5403|Corretagem de bens|Prestação de serviços de corretagem no mercado de capitais|N
+5501|Administração de programas oficiais (PROAGRO, p.ex.)|Prestação de serviços de administração de Programas voltados para a constituição de fundos para o financiamento de setores e atividades específicas.|N
+5502|Administração de loterias|Prestação de serviços de administração de loterias|N
+5503|Administração de Sociedades de Investimento|Prestação de serviços de administração de Sociedades de Investimento|N
+5504|Administração de consórcios|Prestação de serviços de administração de Consórcios|N
+5505|Administração de dívidas do setor público|Prestação de serviços de administração de dívidas das várias esferas de Governo e de órgãos governamentais|N
+5506|Administração de fundos e programas – Setor Público|Prestação de serviços de administração de fundos e programas do Setor Público, cujos recursos são oriundos de fundos públicos.|N
+5507|Administração de fundos e programas – Setor Privado|Prestação de serviços de administração de fundos e programas do Setor Privado, cujos recursos são oriundos de fundos privados.|N
+5508|Administração de sistemas de negociação de ativos|Prestação de serviços de administração de sistema de negociação de ativos|N
+5509|Administração da custódia de títulos|Prestação de serviços de administração da custódia de títulos|N
+5510|Administração de carteiras de clientes|Prestação de serviços de administração de carteiras de clientes|N
+5511|Administração de fundos de desenvolvimento|Prestação de serviços de administração de fundos de desenvolvimento|N
+5512|Administração de repasses|Prestação de serviços de administração de repasses de recursos, tais como: FINAME, BNDES etc.|N
+5513|Representação de investidor não residente|Prestação de serviços de administração de negócios de investidores não residentes no país, atuando em seu nome em diversos atos negociais|N
+5514|Serviços de tesouraria para terceiros|Prestação de serviços de gestão de negócios de terceiros (fluxo de caixa, recebimentos, pagamentos, etc.)|N
+5515|Administração de bens e negócios de terceiros|Prestação de serviços de administração de bens e negócios de terceiros não especificados nos itens anteriores|S
+5601|Serviços de assessoria e consultoria em Comércio Exterior|Prestação de serviços de assessoria e consultoria em Comércio Exterior|N
+5602|Serviços de assessoria e consultoria em carteiras de investimento|Prestação de serviços de assessoria e consultoria em carteiras de investimento|N
+5603|Serviços de consultoria na utilização de softwares|Prestação de serviços de consultoria a clientes, na utilização de softwares específicos, tais como de conciliação bancária, gerenciamento de contas, rotinas de pagamentos etc.|N
+5604|Serviços de assessoria financeira|Prestação de serviços de assessoria financeira em operações de fusão, incorporação, reestruturação financeira, aquisições e afins|N
+5605|Serviços de assessoria e consultoria|Prestação de serviços de assessoria e consultoria não especificados nos itens anteriores|S
+5701|Processamento de dados|Prestação de serviços de processamento de dados para terceiros (empresas ligadas ou não)|N
+5801|Comissões de compras com cartões no exterior|Prestação de serviços nas compras no exterior efetuadas com a utilização de cartões|N
+5901|Captação / repasse de recursos|Prestação de serviços de captação / repasse de recursos para terceiros (empresas ligadas ou não)|N
+6001|Comissões em leilões eletrônicos|Comissão sobre o valor do negócio leiloado, credenciamento|N
+6101|Serviços relacionados a transferências|Serviços relacionados à transferência de valores, dados, pagamentos e similares tais como recarga de créditos de celulares, cartão refeição, cartão de transporte, outros|S
+9001|Outros|Outros serviços prestados não codificados nesta tabela|S
